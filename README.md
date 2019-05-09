@@ -12,7 +12,7 @@ Start AEM by executing the following steps
 1. Open a terminal window and navigate to path `/Users/tl14/Desktop/aem-6.5-summit-london`
 2. Execute the following command
 
-```java -Xmx6G -jar cq-quickstart-*.jar -nobrowser -nofork```
+```java -Xmx6G -jar cq-quickstart-*.jar -r author,dynamicmedia_scene7 -nobrowser -nofork```
 
 3. Using Chrome, log in to AEM Author at http://localhost:4502/
 * User name: admin

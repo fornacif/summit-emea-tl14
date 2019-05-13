@@ -9,7 +9,7 @@
 ### AEM Start
 Start AEM by executing the following steps
 
-1. Open a terminal window and navigate to path */Users/tl14/Desktop/aem-6.5-summit-london*
+1. Open a **Terminal** window and navigate to path */Users/tl14/Desktop/aem-6.5-summit-london*
 
 :computer: `cd /Users/tl14/Desktop/aem-6.5-summit-london`
 
@@ -21,7 +21,14 @@ Start AEM by executing the following steps
 * User name: admin
 * Password: admin
 
-## Chapter 02 - Concepts
+### Package Installation
+
+1. Download Package https://github.com/fornacif/summit-emea-tl14/blob/master/LAB14-1.0.0-SNAPSHOT.zip?raw=true
+1. Navigate to http://localhost:4502/crx/packmgr/index.jsp
+1. Upload Package
+1. Install Package
+
+## Chapter 02 - Conceptss
 
 
 

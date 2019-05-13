@@ -176,7 +176,7 @@ Now we want to create variations of the previously modified content. To do so we
 
 ### Experience Fragment Export to Target
 
-1. Navigate the [Experience Fragements](http://localhost:4502/sites.html/content) module
+1. Navigate the [Experience Fragements](http://localhost:4502/aem/experience-fragments.html/content/experience-fragments) module
 <br/>![](screenshots/44.png)
 1. Switch view to *List View* mode
 1. Select all Experience Fragments and export them to Target

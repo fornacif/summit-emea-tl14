@@ -101,13 +101,18 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 #### Hero Banner Update
 
 1. Cancel inheritance of the Hero Banner
-<br/>![](screenshots/19.png)<br/>
+<br/>![](screenshots/19.png)
 1. Search for Assets by term "**biking**"
-<br/>![](screenshots/20.png)<br/>
+<br/>![](screenshots/20.png)
 1. Drag & Drop the first image (the one previously upload) to the Hero Banner
-<br/>![](screenshots/21.png)<br/>
+<br/>![](screenshots/21.png)
 <br/>:bulb: Note that the image as been cropped thanks to the **Smart Crop** feature. Here the focus is made on the cyclist which is not necessary what we want
 1. Open Smart Crop configuration for the cycling image and adapt it do focus on bike as we want to highlight  equipments
-<br/>![](screenshots/22.png)<br/>
+<br/>![](screenshots/22.png)
 1. Refresh the Equipments page to see results
-<br/>![](screenshots/23.png)<br/>
+<br/>![](screenshots/23.png)
+1. Cancel inheritance of the bottom left left Teaser
+<br/>![](screenshots/24.png)
+1. Drag & Drop the fibiking image to the bottom left Teaser
+<br/>![](screenshots/25.png)
+<br/>:bulb: Note that the image as been cropped differently from the Hero Banner as it's using another format

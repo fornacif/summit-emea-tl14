@@ -72,12 +72,13 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 <br/>![](screenshots/10.png)
 1. Open assets properties
 <br/>![](screenshots/11.png)
-1. Observe automatically added tags (Smart Tags)
+1. Observe automatically added tags add through **Smart Tags** feature
 <br/>![](screenshots/12.png)
-1. Open *Smart Crop* editor for each assets
+1. Open **Smart Crop** editor for each assets
 <br/>![](screenshots/13.png)
 1. Observe which parts of images have been selected for both *TEASER* and *HERO* formats. 
 <br/>![](screenshots/14.png)
+The configuration of Smart Crop formats has been made [here](http://localhost:4502/mnt/overlay/dam/gui/content/processingprofilepage/imageprocessingprofiles/editor.html/conf/global/settings/dam/adminui-extension/imageprofile/smart-crop) and the image profile has been applied to the DAM folder.
 	
 ### Assets Usage
 
@@ -96,7 +97,7 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 <br/>![](screenshots/17.png)
 1. Drag & Drop the first image (the one previously upload) to the top left Teaser
 <br/>![](screenshots/18.png)
-<br/>:bulb: Note that the image as been cropped accordingly thanks to the **Smart Crop** feature
+<br/>:bulb: Note that the image as been cropped accordingly thanks to the **Smart Crop** feature.
 
 #### Hero Banner Update
 

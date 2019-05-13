@@ -1,8 +1,9 @@
 # TL14 - Enhance content creation and diffusion with Adobe Sensei and Adobe Target
 
 ## Agenda
-[Chapter 01 - Boostrap](#chapter-01---bootstrap)  
-[Chapter 02 - Concepts](#chapter-02---concepts)  
+[Chapter 01 - Boostrap](#chapter-01---bootstrap)
+[Chapter 02 - Concepts](#chapter-02---concepts)
+[Chapter 03 - Assets](#chapter-03---assets)  
 
 ## Chapter 01 - Bootstrap
 
@@ -41,15 +42,33 @@ We will update the **Equipment** page and modify some existing components.
 For that, we need to gather some Assets that we will use in the Hero banner and some teasers.
 
 1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
-2. Open the [Sites](http://localhost:4502/sites.html/content) module
+1. Open the [Sites](http://localhost:4502/sites.html/content) module
 <br/>![](screenshots/5.png)
-3. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
+1. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
 <br/>![](screenshots/6.png)
-4. Observe page structure
+1. Observe page structure
 <br/>![](screenshots/7.png)
 
 :bulb: Notice that components are not editable, they inherit from the master page. Later, we will cancel inheritance of components we want to update.
 
 :warning: Don't forget to switch from *Edit* to *Preview* mode to activate navigation links.
 
-## Chapter 03 - Assets import
+## Chapter 03 - Assets
+
+### Assets Upload
+
+1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
+1. Open the [Assets](http://localhost:4502/assets.html/content) module
+<br/>![](screenshots/8.png)
+1. Open the [Summit EMEA 2019](http://localhost:4502/assets.html/content) folder
+<br/>![](screenshots/9.png)
+1. Download the three following images
+	1. AdobeStock_70993026.jpeg
+	1. AdobeStock_105076852.jpeg 
+	1. AdobeStock_186488201.jpeg
+1. Rename images by adding your initials to them
+`Example: AdobeStock_70993026-FFO.jpeg`
+1. Upload theses images by drag&drop
+<br/>![](screenshots/10.png)
+
+

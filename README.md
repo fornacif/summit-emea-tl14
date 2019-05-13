@@ -1,8 +1,8 @@
 # TL14 - Enhance content creation and diffusion with Adobe Sensei and Adobe Target
 
 ## Agenda
-[Chapter 01 - Boostrap](#chapter-01---bootstrap)
-[Chapter 02 - Concepts](#chapter-02---concepts)
+[Chapter 01 - Boostrap](#chapter-01---bootstrap)  
+[Chapter 02 - Concepts](#chapter-02---concepts)  
 [Chapter 03 - Assets](#chapter-03---assets)  
 
 ## Chapter 01 - Bootstrap

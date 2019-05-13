@@ -41,7 +41,7 @@ We will update the [Equipment](http://localhost:4502/editor.html/content/we-reta
 For that, we need to gather some Assets that we will use in the Hero banner and some teasers.
 
 1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
-2. Open *Sites* module
+2. Open the [Sites](http://localhost:4502/sites.html/content) module
 <br/>![](screenshots/5.png)
 3. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
 <br/>![](screenshots/6.png)

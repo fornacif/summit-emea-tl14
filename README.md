@@ -165,11 +165,11 @@ Now we want to create variations of the previously modified content. To do so we
 <br/>![](screenshots/38.png)
 1. Once the Teaser has been converted to Experience Fragment, edit it
 <br/>![](screenshots/39.png)
-1. Create one variation as live copy
+1. Create two variation as live copy
 <br/>![](screenshots/40.png)
 1. Name must contain the variation name and your initials
 <br/>![](screenshots/41.png)
-1. Cancel inheritance for the new Experience Fragment and replace the image by one coming from Adobe Stock. You can use the search by similarity. Be creative :blush:
+1. Cancel inheritance for new Experience Fragments and replace images by ones coming from Adobe Stock. You can use the search by similarity. Be creative :blush:
 <br/>![](screenshots/42.png)
 1. Preview newly created Experience Fragments
 <br/>![](screenshots/43.png)

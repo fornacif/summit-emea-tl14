@@ -163,7 +163,7 @@ Now we want to create variations of the previously modified content. To do so we
 <br/>![](screenshots/37.png)
 1. Select template for the Experience Fragment
 <br/>![](screenshots/38.png)
-1. Once the Teaser as been converted to Experience Fragment, edit it
+1. Once the Teaser has been converted to Experience Fragment, edit it
 <br/>![](screenshots/39.png)
 1. Create two variations as live copy
 <br/>![](screenshots/40.png)

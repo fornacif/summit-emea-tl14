@@ -93,7 +93,7 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 <br/>![](screenshots/16.png)
 1. Here we can filter images to refine results. That's where Smart Tags feature is powerful. If we want only images for summer campaign, we can search "**hiking summer**" to have more appropriate results. 
 
-<br/>:bulb: Don't forget tags are coming from the file itself or enriched by Smart Tags features and thus have not been edited manually
+<br/>:bulb: Keep in mind tags are coming from the file itself or enriched by Smart Tags features and thus have not been edited manually
 
 <br/>![](screenshots/17.png)
 1. Drag & Drop the first image (the one previously upload) to the top left Teaser

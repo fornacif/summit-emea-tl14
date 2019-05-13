@@ -45,6 +45,10 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 <br/>![](screenshots/5.png)
 3. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
 <br/>![](screenshots/6.png)
+4. Observe page structure
+<br/>![](screenshots/7.png)
+
+:bulb: Notice that components are not editable, they inherit from the master page. Later, we will cancel inheritance of components we want to update.
 
 :warning: Don't forget to switch from *Edit* to *Preview* mode to activate navigation links.
 

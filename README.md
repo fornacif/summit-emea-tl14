@@ -167,7 +167,7 @@ Now we want to create variations of the previously modified content. To do so we
 <br/>![](screenshots/39.png)
 1. Create two variations as live copy
 <br/>![](screenshots/40.png)
-1. Name them appropriately for them to contain the variation name and your initials
+1. Name must contain the variation name and your initials
 <br/>![](screenshots/41.png)
 1. Cancel inheritance for the two new Experience Fragments and replace images from new ones you will save from Adobe Stock. You can use the search by similarity. Be creative :blush:
 <br/>![](screenshots/42.png)

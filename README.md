@@ -6,7 +6,7 @@
 [Chapter 03 - Assets](#chapter-03---assets)  
 [Chapter 04 - Stock](#chapter-04---stock)  
 [Chapter 05 - Fragments](#chapter-05---fragments)  
-[Chapter 06 - Personalization](#chapter-06---personalization)  
+[Chapter 06 - Personalisation](#chapter-06---personalisation)  
 
 ## Chapter 01 - Bootstrap
 
@@ -184,9 +184,9 @@ Now we want to create variations of the previously modified content. To do so we
 1. As you don't have a Publish instance, just click *Export without Publishing*
 <br/>![](screenshots/46.png)
 
-## Chapter 06 - Personalization
+## Chapter 06 - Personalisation
 
-Now we created personalized content, we can build A/B Testing, Automated Personalization or Experience Targeting activities in Adobe Target.
+Now we created personalised content, we can build A/B Testing, Automated Personalisation or Experience Targeting activities in Adobe Target.
 
 The following steps will be showed during the lab and we will integrate your previously created Experience Fragments to see the result on the shared AEM Publish instance.
 

@@ -67,7 +67,7 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 	* [AdobeStock_105076852.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_105076852.jpeg)
 	* [AdobeStock_186488201.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_186488201.jpeg)
 1. Rename images by adding your initials to them
-<br/>`Example: AdobeStock_70993026-FFO.jpeg`
+:warning: `AdobeStock_70993026-FFO.jpeg`
 1. Upload theses images through Drag & Drop
 <br/>![](screenshots/10.png)
 

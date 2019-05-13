@@ -78,7 +78,7 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 <br/>![](screenshots/13.png)
 1. Observe which parts of images have been selected for both *TEASER* and *HERO* formats. 
 <br/>![](screenshots/14.png)
-The configuration of Smart Crop formats has been made [here](http://localhost:4502/mnt/overlay/dam/gui/content/processingprofilepage/imageprocessingprofiles/editor.html/conf/global/settings/dam/adminui-extension/imageprofile/smart-crop) and the image profile has been applied to the DAM folder.
+<br/>:bulb: The configuration of Smart Crop formats has been made [here](http://localhost:4502/mnt/overlay/dam/gui/content/processingprofilepage/imageprocessingprofiles/editor.html/conf/global/settings/dam/adminui-extension/imageprofile/smart-crop) and the image profile has been applied to the DAM folder.
 	
 ### Assets Usage
 

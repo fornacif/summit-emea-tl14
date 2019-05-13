@@ -188,7 +188,7 @@ Now we want to create variations of the previously modified content. To do so we
 
 Now we created personalized content, we can build A/B Testing, Automated Personalization or Experience Targeting activities in Adobe Target.
 
-The following steps will be showed during the lab and we will integrated your previously created Experience Fragments to see the result on the shared AEM Publish instance.
+The following steps will be showed during the lab and we will integrate your previously created Experience Fragments to see the result on the shared AEM Publish instance.
 
 1. A/B Testing activity creation
 <br/>![](screenshots/47.png)

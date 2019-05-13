@@ -49,7 +49,7 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 1. Observe page structure
 <br/>![](screenshots/7.png)
 
-:bulb: Notice that components are not editable, they inherit from the master page. Later, we will cancel inheritance of components we want to update.
+:bulb: Note that components are not editable, they inherit from the master page. Later, we will cancel inheritance of components we want to update.
 
 :warning: Don't forget to switch from *Edit* to *Preview* mode to activate navigation links.
 
@@ -70,5 +70,13 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 <br/>:warning: `AdobeStock_70993026-FFO.jpeg`
 1. Upload theses images through Drag & Drop
 <br/>![](screenshots/10.png)
-
+1. Open assets properties
+<br/>![](screenshots/11.png)
+1. Observe automatically added tags (Smart Tags)
+<br/>![](screenshots/12.png)
+1. Open *Smart Crop* editor for each assets
+<br/>![](screenshots/13.png)
+1. Observe which parts of images have been selected for both *TEASER* and *HERO* formats. 
+<br/>![](screenshots/13.png)
+	
 

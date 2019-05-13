@@ -40,4 +40,4 @@ During this lab we will work on the [We.Retail](http://localhost:4502/editor.htm
 We will update the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page and modify some existing components.
 For that, we need to gather some Assets that we will use in the Hero banner and some teasers.
 
-:bulb: Don't forget to switch to *Preview* mode to activate navigation links.
+:warning: Don't forget to switch to *Preview* mode to activate navigation links.

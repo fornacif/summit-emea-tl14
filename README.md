@@ -63,11 +63,11 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 1. Open the [Summit EMEA 2019](http://localhost:4502/assets.html/content) folder
 <br/>![](screenshots/9.png)
 1. Download the three following images
-	* [AdobeStock_70993026.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_70993026.jpeg)
+	* [AdobeStock_127970082.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_127970082.jpeg)
 	* [AdobeStock_105076852.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_105076852.jpeg)
 	* [AdobeStock_186488201.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_186488201.jpeg)
 1. Rename images by adding your initials to them
-<br/>:warning: `AdobeStock_70993026-FFO.jpeg`
+<br/>:warning: `AdobeStock_127970082-FFO.jpeg`
 1. Upload theses images through Drag & Drop
 <br/>![](screenshots/10.png)
 1. Open assets properties
@@ -84,10 +84,30 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
 1. Open the [Sites](http://localhost:4502/sites.html/content) module
 1. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
+
+#### Teaser Update
+
 1. Cancel inheritance of the top left Teaser
 <br/>![](screenshots/15.png)
 1. Search for Assets by term "**hiking**"
 <br/>![](screenshots/16.png)
 1. Here we can filter images to refine results. That's where Smart Tags are powerful. If we want only images for summer campaign, we can search "**hiking summer**" to have more appropriate results. 
-:bulb: Don't forget tags are coming from the file itself or enriched by Smart Tags features and thus have not been put manually
+<br/>:bulb: Don't forget tags are coming from the file itself or enriched by Smart Tags features and thus have not been edited manually
+<br/>![](screenshots/17.png)
+1. Drag & Drop the first image (the one previously upload) to the top left Teaser
+<br/>![](screenshots/18.png)
+<br/>:bulb: Note that the image as been cropped accordingly thanks to the **Smart Crop** feature
 
+#### Hero Banner Update
+
+1. Cancel inheritance of the Hero Banner
+<br/>![](screenshots/19.png)
+1. Search for Assets by term "**biking**"
+<br/>![](screenshots/20.png)
+1. Drag & Drop the first image (the one previously upload) to the Hero Banner
+<br/>![](screenshots/21.png)
+<br/>:bulb: Note that the image as been cropped thanks to the **Smart Crop** feature. Here the focus is made on the cyclist which is not necessary what we want
+1. Open Smart Crop configuration for the cycling image and adapt it do focus on bike as we want to highlight  equipments
+<br/>![](screenshots/22.png)
+1. Refresh the Equipments page to see results
+<br/>![](screenshots/23.png)

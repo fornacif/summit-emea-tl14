@@ -63,12 +63,12 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 1. Open the [Summit EMEA 2019](http://localhost:4502/assets.html/content) folder
 <br/>![](screenshots/9.png)
 1. Download the three following images
-	1. AdobeStock_70993026.jpeg
-	1. AdobeStock_105076852.jpeg 
-	1. AdobeStock_186488201.jpeg
+	* [AdobeStock_70993026.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_105076852.jpeg)
+	* [AdobeStock_105076852.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_105076852.jpeg)
+	* [AdobeStock_186488201.jpeg](https://raw.githubusercontent.com/fornacif/summit-emea-tl14/master/images/AdobeStock_186488201.jpeg)
 1. Rename images by adding your initials to them
-`Example: AdobeStock_70993026-FFO.jpeg`
-1. Upload theses images by drag&drop
+<br/>`Example: AdobeStock_70993026-FFO.jpeg`
+1. Upload theses images through Drag & Drop
 <br/>![](screenshots/10.png)
 
 

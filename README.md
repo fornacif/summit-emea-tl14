@@ -5,6 +5,8 @@
 [Chapter 02 - Overview](#chapter-02---overview)  
 [Chapter 03 - Assets](#chapter-03---assets)  
 [Chapter 04 - Stock](#chapter-04---stock)  
+[Chapter 05 - Fragments](#chapter-05---fragments)  
+[Chapter 06 - Personalization](#chapter-06---personalization)  
 
 ## Chapter 01 - Bootstrap
 
@@ -125,7 +127,7 @@ Now we want to find inspiration in **Adobe Stock** catalog to find more relevant
 
 #### Teaser Update
 
-1. Go to *Assets* module root and click on **Search Adobe Stock** icon
+1. Navigate to *Assets* module root and click on **Search Adobe Stock** icon
 <br/>![](screenshots/26.png)
 1. Search for Assets by term "**biking**"
 <br/>![](screenshots/27.png)
@@ -144,3 +146,42 @@ Now we want to find inspiration in **Adobe Stock** catalog to find more relevant
 <br/>![](screenshots/33.png)
 1. Then
 <br/>![](screenshots/34.png)
+
+## Chapter 05 - Fragments
+
+Now we want to create variations of the previously modified content. To do so we will leverage Experience Fragment.
+
+### Experience Fragment Creation
+
+1. Navigate to the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page
+1. Convert Teaser to **Experience Fragment Variation**
+<br/>![](screenshots/35.png)
+1. Set properties for the Experience Fragment to *Summit EMEA 2019*. Choose an appropriate name that contains your initials like:
+`Hiking XP Master - FFO`
+<br/>![](screenshots/36.png)
+1. Select destination for the Experience Fragment to *Summit EMEA 2019*
+<br/>![](screenshots/37.png)
+1. Select template for the Experience Fragment
+<br/>![](screenshots/38.png)
+1. Once the Teaser as been converted to Experience Fragment, edit it
+<br/>![](screenshots/39.png)
+1. Create two variations as live copy
+<br/>![](screenshots/40.png)
+1. Name them appropriately for them to contain the variation name and your initials
+<br/>![](screenshots/41.png)
+1. Cancel inheritance for the two new Experience Fragments and replace images from new ones you will save from Adobe Stock. You can use the search by similarity. Be creative :blush:
+<br/>![](screenshots/42.png)
+1. Preview newly created Experience Fragments
+<br/>![](screenshots/43.png)
+
+### Experience Fragment Export to Target
+
+1. Navigate the [Experience Fragements](http://localhost:4502/sites.html/content) module
+<br/>![](screenshots/44.png)
+1. Switch view to *List View* mode
+1. Select all Experience Fragments and export them to Target
+<br/>![](screenshots/45.png)
+1. As you don't have a Publish instance, just click *Export without Publishing*
+<br/>![](screenshots/46.png)
+
+## Chapter 06 - Personalization

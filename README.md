@@ -2,7 +2,7 @@
 
 ## Agenda
 [Chapter 01 - Boostrap](#chapter-01---bootstrap)  
-[Chapter 02 - Concepts](#chapter-02---concepts)  
+[Chapter 02 - Overview](#chapter-02---overview)  
 [Chapter 03 - Assets](#chapter-03---assets)  
 
 ## Chapter 01 - Bootstrap
@@ -35,11 +35,11 @@ Start AEM by executing the following steps
 1. Start Install
 <br/>![](screenshots/4.png)
 
-## Chapter 02 - Concepts
+## Chapter 02 - Overview
 
 During this lab we will work on the **We.Retail** reference site.
 We will update the **Equipment** page and modify some existing components.
-For that, we need to gather some Assets that we will use in the Hero banner and some teasers.
+For that, we need to gather some Assets that we will use for the Hero Banner and Teasers.
 
 1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
 1. Open the [Sites](http://localhost:4502/sites.html/content) module
@@ -79,4 +79,15 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 1. Observe which parts of images have been selected for both *TEASER* and *HERO* formats. 
 <br/>![](screenshots/14.png)
 	
+### Assets Usage
+
+1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
+1. Open the [Sites](http://localhost:4502/sites.html/content) module
+1. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
+1. Cancel inheritance of the top left Teaser
+<br/>![](screenshots/15.png)
+1. Search for Assets by term "**hiking**"
+<br/>![](screenshots/16.png)
+1. Here we can filter images to refine results. That's where Smart Tags are powerful. If we want only images for summer campaign, we can search "**hiking summer**" to have more appropriate results. 
+:bulb: Don't forget tags are coming from the file itself or enriched by Smart Tags features and thus have not been put manually
 

@@ -40,4 +40,12 @@ During this lab we will work on the [We.Retail](http://localhost:4502/editor.htm
 We will update the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page and modify some existing components.
 For that, we need to gather some Assets that we will use in the Hero banner and some teasers.
 
-:warning: Don't forget to switch to *Preview* mode to activate navigation links.
+1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)
+2. Open *Sites* module
+<br/>![](screenshots/5.png)
+3. Open the [Equipment](http://localhost:4502/editor.html/content/we-retail/us/en/equipment.html) page in edition mode
+<br/>![](screenshots/6.png)
+
+:warning: Don't forget to switch from *Edit* to *Preview* mode to activate navigation links.
+
+## Chapter 03 - Assets import

@@ -4,6 +4,7 @@
 [Chapter 01 - Boostrap](#chapter-01---bootstrap)  
 [Chapter 02 - Overview](#chapter-02---overview)  
 [Chapter 03 - Assets](#chapter-03---assets)  
+[Chapter 04 - Stock](#chapter-04---stock)  
 
 ## Chapter 01 - Bootstrap
 
@@ -116,4 +117,28 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 <br/>![](screenshots/24.png)
 1. Drag & Drop the fibiking image to the bottom left Teaser
 <br/>![](screenshots/25.png)
-<br/>:bulb: Note that the image as been cropped differently from the Hero Banner as it's using another format
+<br/>:bulb: Note that the image as been cropped differently from the Hero Banner as it's using another format even if it's the same original image.
+
+## Chapter 04 - Stock
+
+Now we want to find inspiration in **Adobe Stock** catalog to find more relevant visuals.
+
+#### Teaser Update
+
+1. Go to *Assets* module root and click on **Search Adobe Stock** icon
+<br/>![](screenshots/26.png)
+1. Search for Assets by term "**biking**"
+<br/>![](screenshots/27.png)
+1. Save the already licensed image
+<br/>![](screenshots/28.png)
+<br/>:warning: License feature as been disabled on purpose as it needs proper account with credits
+1. Proceed to Next
+<br/>![](screenshots/29.png)
+1. Select *Summit EMEA 2019* folder
+<br/>![](screenshots/30.png)
+1. Go back to the *Equipment* page, search last **biking** images and Drag & Drop it to the biking Teaser
+<br/>![](screenshots/31.png)
+1. Do the same steps for replacing the *RUNNING* Teaser by an image coming from Adobe Stock
+<br/>![](screenshots/32.png)
+<br/>![](screenshots/33.png)
+<br/>![](screenshots/34.png)

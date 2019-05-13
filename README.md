@@ -17,7 +17,7 @@ Start AEM by executing the following steps
 
 :computer: `java -Xmx6G -jar cq-quickstart-6.5.0.jar -r author,dynamicmedia_scene7  -nobrowser -nofork`
 
-3. Using Chrome, log in to AEM Author at http://localhost:4502/
+3. Using Chrome, log in to [AEM Author](http://localhost:4502)
 * User name: admin
 * Password: admin
 

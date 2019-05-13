@@ -140,5 +140,7 @@ Now we want to find inspiration in **Adobe Stock** catalog to find more relevant
 <br/>![](screenshots/31.png)
 1. Do the same steps for replacing the *RUNNING* Teaser by an image coming from Adobe Stock
 <br/>![](screenshots/32.png)
+1. Then
 <br/>![](screenshots/33.png)
+1. Then
 <br/>![](screenshots/34.png)

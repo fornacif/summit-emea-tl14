@@ -36,8 +36,8 @@ Start AEM by executing the following steps
 
 ## Chapter 02 - Concepts
 
-During this lab we will work on the *We.Retail* reference site.
-We will update the *Equipment* page and modify some existing components.
+During this lab we will work on the **We.Retail** reference site.
+We will update the **Equipment** page and modify some existing components.
 For that, we need to gather some Assets that we will use in the Hero banner and some teasers.
 
 1. Navigate to [AEM Home Page](http://localhost:4502/aem/start.html)

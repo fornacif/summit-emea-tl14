@@ -117,7 +117,7 @@ For that, we need to gather some Assets that we will use for the Hero Banner and
 <br/>![](screenshots/23.png)
 1. Cancel inheritance of the bottom left Teaser
 <br/>![](screenshots/24.png)
-1. Drag & Drop the fibiking image to the bottom left Teaser
+1. Drag & Drop the biking image to the bottom left Teaser
 <br/>![](screenshots/25.png)
 <br/>:bulb: Note that the image as been cropped differently from the Hero Banner as it's using another format even if it's the same original image.
 

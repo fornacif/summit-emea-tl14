@@ -77,6 +77,6 @@ For that, we need to gather some Assets that we will use in the Hero banner and 
 1. Open *Smart Crop* editor for each assets
 <br/>![](screenshots/13.png)
 1. Observe which parts of images have been selected for both *TEASER* and *HERO* formats. 
-<br/>![](screenshots/13.png)
+<br/>![](screenshots/14.png)
 	
 

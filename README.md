@@ -24,7 +24,7 @@ Start AEM by executing the following steps
 ### Package Installation
 
 1. Download [LAB14 Package](https://github.com/fornacif/summit-emea-tl14/blob/master/LAB14-1.0.0-SNAPSHOT.zip?raw=true)
-1. Navigate to <a href="http://localhost:4502/crx/packmgr/index.jsp" target="_blank">CRX/DE</a>
+1. Navigate to [CRX/DE](http://localhost:4502/crx/packmgr/index.jsp){:target="_blank"}
 1. Upload Package
 1. Install Package
 

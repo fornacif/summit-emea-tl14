@@ -19,7 +19,7 @@ Start AEM by executing the following steps
 
 2. Execute the following command
 
-:computer: `java -Xmx4G -jar cq-quickstart-6.5.0.jar -r dynamicmedia_scene7  -nobrowser -nofork`
+:computer: `java -Xmx4G -jar cq-quickstart-6.5.0.jar -r dynamicmedia_scene7 -nofork`
 
 3. Using Chrome, log in to [AEM Author](http://localhost:4502)
 * User name: admin

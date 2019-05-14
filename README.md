@@ -15,7 +15,7 @@ Start AEM by executing the following steps
 
 1. Open a **Terminal** window and navigate to path */Users/tl14/Desktop/aem-6.5*
 
-:computer: `cd /Users/tl14/Desktop/aem-6.5-summit-london`
+:computer: `cd /Users/tl14/Desktop/aem-6.5`
 
 2. Execute the following command
 

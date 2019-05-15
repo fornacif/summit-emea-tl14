@@ -10,16 +10,7 @@
 
 ## Chapter 01 - Bootstrap
 
-### AEM Start
-Start AEM by executing the following steps
-
-1. Open a **Terminal** window and navigate to path */Users/tl14/Desktop/aem-6.5*
-
-:computer: `cd /Users/tl14/Desktop/aem-6.5`
-
-2. Execute the following command
-
-:computer: `java -Xmx4G -jar cq-quickstart-6.5.0.jar -r dynamicmedia_scene7 -nofork`
+### AEM Login
 
 3. Using Chrome, log in to [AEM Author](http://localhost:4502)
 * User name: admin
